@@ -1,4 +1,4 @@
-linux-insides
+Linux Insides- All to know about Linux 
 ===============
 
 A book-in-progress about the linux kernel and its insides.
